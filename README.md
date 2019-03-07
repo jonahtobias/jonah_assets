@@ -1,1 +1,1 @@
-# jonah_assets
+# A few homemade Houdini Digital Assets
